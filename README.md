@@ -64,4 +64,4 @@ I focus on AI applications and backend development, building practical tools wit
 
 - Email: [wschen297@gmail.com](mailto:wschen297@gmail.com)
 - Email: [sososhuo@126.com](mailto:sososhuo@126.com)
-- GitHub: [@sososhuo](https://github.com/sososhuo)
+
