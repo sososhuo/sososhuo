@@ -1,4 +1,4 @@
-# Hi, I'm Shuo
+# Hi, I'm sososhuo
 
 欢迎来到我的 GitHub 主页。  
 我专注于 AI 应用与后端开发，使用 Python 构建实用工具。  
