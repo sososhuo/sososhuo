@@ -9,7 +9,7 @@ I focus on AI applications and backend development, building practical tools wit
 
 <table>
   <tr>
-    <td valign="top" width="50%" style="border: none;">
+    <td valign="top" width="33%" style="border: none;">
 
 **Languages**
 
@@ -27,6 +27,9 @@ I focus on AI applications and backend development, building practical tools wit
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
 </p>
 
+  </td>
+  <td valign="top" width="33%" style="border: none;">
+
 **Databases**
 
 <p>
@@ -36,9 +39,6 @@ I focus on AI applications and backend development, building practical tools wit
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
-  </td>
-    <td valign="top" width="50%" style="border: none;">
-
 **AI Engineering**
 
 <p>
@@ -47,17 +47,25 @@ I focus on AI applications and backend development, building practical tools wit
   <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" alt="Prompt Engineering" />
 </p>
 
+  </td>
+  <td valign="top" width="33%" style="border: none;">
+
 **Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
   </td>
   </tr>
-</table>
 </table>
 
 ## Contact
