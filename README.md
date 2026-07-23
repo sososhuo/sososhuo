@@ -30,11 +30,20 @@ I'm interested in AI applications, backend development, and building practical t
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
-**AI / Search**
+**AI Engineering**
 
 <p>
   <img src="https://img.shields.io/badge/RAG-555555?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/BM25-2563EB?style=flat-square" alt="BM25" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" alt="Prompt Engineering" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 ## Contact
