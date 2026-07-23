@@ -5,6 +5,10 @@ I'm interested in AI applications, backend development, and building practical t
 
 ## My Skills
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 **Languages**
 
 <p>
@@ -30,6 +34,9 @@ I'm interested in AI applications, backend development, and building practical t
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
+  </td>
+  <td valign="top" width="50%">
+
 **AI Engineering**
 
 <p>
@@ -45,6 +52,10 @@ I'm interested in AI applications, backend development, and building practical t
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
+
+  </td>
+  </tr>
+</table>
 
 ## Contact
 
