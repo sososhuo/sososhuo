@@ -35,15 +35,14 @@ I focus on AI applications and backend development, building practical tools wit
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Chroma-7C3AED?style=flat-square" alt="Chroma" />
+  <img src="https://img.shields.io/badge/Chroma-7C3AED?style=flat-square&logo=chroma&logoColor=white" alt="Chroma" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
 **AI Engineering**
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-555555?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/BM25-2563EB?style=flat-square" alt="BM25" />
+  <img src="https://img.shields.io/badge/RAG-555555?style=flat-square" alt="RAG" />  
   <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/MCP-0F766E?style=flat-square" alt="MCP" />
 </p>
