@@ -70,4 +70,4 @@ I focus on AI applications and backend development.
 
 ## Contact
 
-- Email: [wschen297@gmail.com](mailto:wschen297@gmail.com)、[sososhuo@126.com](mailto:sososhuo@126.com)
+- Email: [wschen297@gmail.com](mailto:wschen297@gmail.com)、[wschen297@163.com](mailto:wschen297@163.com)
