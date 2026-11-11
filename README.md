@@ -1,7 +1,7 @@
 # Hi, I'm sososhuo
 
 欢迎来到我的 GitHub 主页。  
-我专注于 AI 应用与后端开发。  
+我在做 AI 应用与后端开发。  
 Welcome to my GitHub profile.  
 I focus on AI applications and backend development.
 
